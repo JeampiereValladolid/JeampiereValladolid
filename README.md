@@ -1,9 +1,8 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Jeampiere+Valladolid%3B+Python+%7C+HTML+%7C+CSS%3B%0ASi+lo+puedes+imaginar%2C+lo+puedes+programar&center=true&width=380&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Jeampiere+Valladolid%3B+Python+%7C+HTML+%7C+CSS%3B+Si+lo+puedes+imaginar%2C+lo+puedes+programar&center=true&width=380&height=45">
   </a>
 </p>
-
 
 ```
 I-am-vishalmaurya@github
