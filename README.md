@@ -5,29 +5,33 @@
   </a>
 </p>
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
-  <img src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Imagen" width="320" />
-  
-  <div>
-  ```python
-  class WhoAmI:
-      user = 'Jeampiere Valladolid'                 
-      currently_learning = "Python"                    
-      hobbies = [                                 
-          'Music',
-          'Gaming',
-          'program'
-      ]
-     
-      def getCity():
-          return "Peru, Ferreñafe"          
-     
-      def Ambitions():
-          return [
-              "A Happy Family",
-              "Finish My Projects"
-          ]
+<img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel free to open a pull request if found" width="320" />
+<hr>
 
+```python
+# I-am-vishalmaurya@github
+
+class WhoAmI:
+    user = 'Jaydeep Yadav'                     # Nombre del usuario
+    current_edu = "CSIT"                        # Educación actual
+    currently_learning = "Javascript"           # Aprendiendo actualmente
+    fun_fact = "I hate Chillies"                # Dato curioso
+    hobbies = [                                 # Hobbies
+        'Music',
+        'Chilling',
+        'Gaming',
+        'Sci-Fi Movies'
+    ]
+   
+    def getCity():
+        return "Chhattisgarh, India"           # Ciudad actual
+   
+    def Ambitions():
+        return [
+            "Become Software Engineer",
+            "Finish My Projects"
+        ]
+```
 <p align="left">
   <a href="https://www.youtube.com/@unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
 <a href="https://www.tiktok.com/@unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@unsimpledev" /></a>
