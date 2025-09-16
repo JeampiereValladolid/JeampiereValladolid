@@ -57,7 +57,7 @@ class WhoAmI:
   </p>
 <br>
 
-<h2>Tecnologías conocidas👨🏻‍💻</h2>
+<h2>𝚂𝚃𝙰𝙲𝙺</h2>
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
@@ -68,7 +68,7 @@ class WhoAmI:
 
 <!--tech stack icons-->
 <div id="proyectos">
-<h2>Algunos proyectos👨🏻‍💻</h2>
+<h2>𝙼𝚈 𝙿𝚁𝙾𝙹𝙴𝙲𝚃𝚂</h2>
 
 <table align="left">
 <tr border="none">
