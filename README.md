@@ -5,33 +5,33 @@
   </a>
 </p>
 
-<img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
+<img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel free to open a pull request if found" width="320" />
 <hr>
 
-```
-I-am-vishalmaurya@github
--------------------------
+```python
+# I-am-vishalmaurya@github
+
 class WhoAmI:
-   user = 'Jaydeep Yadav'
-   current_edu = "CSIT"
-   currently_learning = "Javascript"
-   fun_fact = "I hate Chillies"
-   hobbies = [
-   			'Music',
-                        'Chilling',
-   		 	'Gaming',
-   			'Sci-Fi Movies'
-   		]
+    user = 'Jaydeep Yadav'                     # Nombre del usuario
+    current_edu = "CSIT"                        # Educación actual
+    currently_learning = "Javascript"           # Aprendiendo actualmente
+    fun_fact = "I hate Chillies"                # Dato curioso
+    hobbies = [                                 # Hobbies
+        'Music',
+        'Chilling',
+        'Gaming',
+        'Sci-Fi Movies'
+    ]
    
-   def getCity():
-   	return Chhattisgarh_India()
+    def getCity():
+        return "Chhattisgarh, India"           # Ciudad actual
    
-   def Ambitions():
-   	BecomeSoftwareEngineer()
-   	FinishMyProjects()
+    def Ambitions():
+        return [
+            "Become Software Engineer",
+            "Finish My Projects"
+        ]
 ```
-<hr>
-
 
 <p align="left">
   <a href="https://www.youtube.com/@unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
