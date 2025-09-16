@@ -36,9 +36,6 @@ class WhoAmI:
   <a href="https://fb.com/jeampierevalladolid" target="blank">
     <img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="unsimpledev" />
   </a>
-  <a href="mailto:jeampierevalladolid2011@gmail.com" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev" />
-  </a>
   <a href="https://www.instagram.com/jeampiere_07" target="blank">
     <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="@jeampiere_07" />
   </a>
