@@ -5,13 +5,8 @@
   </a>
 </p>
 
-<div align="center">
-  <img src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Imagen" width="320" />
-</div>
-
+<img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Imagen" width="500" />
 <hr>
-
-<div align="center">
 
 ```python
 class WhoAmI:
