@@ -1,11 +1,9 @@
+<!-- Typing SVG por DenverCoder1 -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Jeampiere+Valladolid%3BPython%20%7C%20Html%20%7C%20Css%3B%20algun%20proyecto%20en%20en%20mente%3F&center=true&width=380&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=24&duration=4000&pause=1000&color=00FF00;0000FF;FFA500;FF4500;00FF00&width=600&height=60&center=true&vCenter=true&lines=Jeampiere%20Valladolid;Python;Html;Css;¿algún%20proyecto%20en%20mente?">
   </a>
 </p>
-
-<img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
-<hr>
 
 ```
 I-am-vishalmaurya@github
