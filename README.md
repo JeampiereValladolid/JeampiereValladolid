@@ -40,19 +40,13 @@ class WhoAmI:
 </p>
 
 <br>
-<h2>Sobre mi 😃</h2>
+<h2>𝙰𝙱𝙾𝚄𝚃 𝙼𝙴</h2>
 <!--Intro start-->
 
 <p align="left">
-🎓 INGENIERO EN INFORMÁTICA
+Interes por la programacion y el desarrollo de software, con media experiencia en la construcción de proyectos personales. Siempre en busqueda de aprender nuevas tecnologías y mejorar continuamente en el proceso de desarrollo.
 
-🎥 PEQUEÑO CREADOR DE CONTENIDO que transmite sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y experiencia
-
-💻 unos cuántos años de experiencia en el proceso de desarrollo de software (solo voy a decir más de 15 para no deschavar mi edad 🙈)
-
-📝 roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️
-
-📫 Contacto: **unsimpledev@gmail.com**
+Contacto: jeampierevalladolid2011@gmail.com
 <!--Intro end-->
   </p>
 <br>
