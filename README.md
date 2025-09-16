@@ -61,7 +61,7 @@ class WhoAmI:
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,gitdesktop,linux,git&perline=4" />
+    <img src="https://skillicons.dev/icons?i=vscode,html,py,css&perline=4" />
   </a>
 </p>
 <br>
