@@ -114,10 +114,7 @@ Contacto: jeampierevalladolid2011@gmail.com
     </p>       
   </td>
 <br><br>
-</tr>
-</table>
-</div>
-<br><br>
+
 <p align="center">
   <a href="https://github.com/JeampiereValladolid/JeampiereValladolid" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Descargar-Template-4CAF50?style=for-the-badge&logo=github&logoColor=white" alt="Descargar Template" />
