@@ -59,70 +59,56 @@ class WhoAmI:
 
 <h2>Tecnologías conocidas👨🏻‍💻</h2>
 <!--tech stack icons-->
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,html,css&perline=3" />
-  </a>
-</p>
-<br>
-
-<!-------------------------->
 <div id="proyectos">
 <h2>Algunos proyectos👨🏻‍💻</h2>
 
 <table align="left">
 <tr border="none">
+
   <td width="25%" align="center">
     <p align="center">
-      <a href="https://youtu.be/rISmdhlhOPM" title="Go to Source">
-        <img align="center" width="100%" src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/smsgateway.webp" alt="VIDEO" />
-      </a>
+      <img align="center" width="100%" src="https://via.placeholder.com/300x200?text=Pr%C3%B3ximamente" alt="Próximamente" />
     </p>
     <p align="center">
-      <a href="https://github.com/unsimpledev/ProyectoSMSGateway" target="blank">
-        <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" />
+      <a href="#" target="blank">
+        <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
       </a>
     </p>       
   </td>
 
   <td width="25%" align="center">
     <p align="center">
-      <a href="https://youtu.be/fiUkA2OZQjs" title="Go to Source">
-        <img align="center" width="100%" src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/notifandroid.webp" alt="VIDEO" />
-      </a>
+      <img align="center" width="100%" src="https://via.placeholder.com/300x200?text=Pr%C3%B3ximamente" alt="Próximamente" />
     </p>
     <p align="center">
-      <a href="https://github.com/unsimpledev/ProyectoNotificaciones" target="blank">
-        <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" />
-      </a>
-    </p>       
-  </td>
-  
-  <td width="25%" align="center">
-    <p align="center">
-      <a href="https://youtu.be/py31Y1Ku4Es" title="Go to Source">
-        <img align="center" width="100%" src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/chatgptapp.webp" alt="VIDEO" />
-      </a>
-    </p>
-    <p align="center">
-      <a href="https://github.com/unsimpledev/MiChatGPT" target="blank">
-        <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" />
+      <a href="#" target="blank">
+        <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
       </a>
     </p>       
   </td>
 
   <td width="25%" align="center">
     <p align="center">
-      <a href="https://youtu.be/FbQtooM3UIs" title="Go to Source">
-        <img align="center" width="100%" src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/traductorchatgpt.webp" alt="VIDEO" />
-      </a>
+      <img align="center" width="100%" src="https://via.placeholder.com/300x200?text=Pr%C3%B3ximamente" alt="Próximamente" />
     </p>
     <p align="center">
-      <a href="https://github.com/unsimpledev/MiTraductor" target="blank">
-        <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" />
+      <a href="#" target="blank">
+        <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
       </a>
     </p>       
   </td>
+
+  <td width="25%" align="center">
+    <p align="center">
+      <img align="center" width="100%" src="https://via.placeholder.com/300x200?text=Pr%C3%B3ximamente" alt="Próximamente" />
+    </p>
+    <p align="center">
+      <a href="#" target="blank">
+        <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      </a>
+    </p>       
+  </td>
+
 </tr>
 </table>
 </div>
