@@ -5,14 +5,12 @@
   </a>
 </p>
 
-<div align="center">
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+  <!-- Imagen a la izquierda -->
   <img src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Imagen" width="320" />
-</div>
 
-<hr>
-
-<div align="center">
-
+  <!-- Bloque de código a la derecha -->
+  <div>
 ```python
 class WhoAmI:
     user = 'Jeampiere Valladolid'                 
@@ -23,15 +21,17 @@ class WhoAmI:
         'program'
     ]
    
+    @staticmethod
     def getCity():
         return "Peru, Ferreñafe"          
    
+    @staticmethod
     def Ambitions():
         return [
             "A Happy Family",
             "Finish My Projects"
         ]
-```
+``
 
 <p align="left">
   <a href="https://www.youtube.com/@unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
