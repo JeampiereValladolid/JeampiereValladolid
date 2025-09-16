@@ -9,26 +9,21 @@
 <hr>
 
 ```python
-# I-am-vishalmaurya@github
-
 class WhoAmI:
-    user = 'Jaydeep Yadav'                     # Nombre del usuario
-    current_edu = "CSIT"                        # Educación actual
-    currently_learning = "Javascript"           # Aprendiendo actualmente
-    fun_fact = "I hate Chillies"                # Dato curioso
-    hobbies = [                                 # Hobbies
+    user = 'Jeampiere Valladolid'                 
+    currently_learning = "Python"                    
+    hobbies = [                                 
         'Music',
-        'Chilling',
         'Gaming',
-        'Sci-Fi Movies'
+        'program'
     ]
    
     def getCity():
-        return "Chhattisgarh, India"           # Ciudad actual
+        return "Peru, Ferreñafe"          
    
     def Ambitions():
         return [
-            "Become Software Engineer",
+            "A Happy Family"
             "Finish My Projects"
         ]
 ```
