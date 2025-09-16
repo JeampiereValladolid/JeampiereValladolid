@@ -6,8 +6,6 @@
 </p>
 
 ```python
-# I-am-vishalmaurya@github
-
 class WhoAmI:
     user = 'Jeampiere Valladolid'  
     currently_learning = "Python"          
