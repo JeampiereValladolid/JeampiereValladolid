@@ -5,28 +5,33 @@
   </a>
 </p>
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
+<div align="center">
   <img src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Imagen" width="320" />
-  
-  <div>
-  ```python
-  class WhoAmI:
-      user = 'Jeampiere Valladolid'                 
-      currently_learning = "Python"                    
-      hobbies = [                                 
-          'Music',
-          'Gaming',
-          'program'
-      ]
-     
-      def getCity():
-          return "Peru, Ferreñafe"          
-     
-      def Ambitions():
-          return [
-              "A Happy Family",
-              "Finish My Projects"
-          ]
+</div>
+
+<hr>
+
+<div align="center">
+
+```python
+class WhoAmI:
+    user = 'Jeampiere Valladolid'                 
+    currently_learning = "Python"                    
+    hobbies = [                                 
+        'Music',
+        'Gaming',
+        'program'
+    ]
+   
+    def getCity():
+        return "Peru, Ferreñafe"          
+   
+    def Ambitions():
+        return [
+            "A Happy Family",
+            "Finish My Projects"
+        ]
+```
 
 <p align="left">
   <a href="https://www.youtube.com/@unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
