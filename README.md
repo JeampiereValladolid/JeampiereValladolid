@@ -12,23 +12,20 @@
 # I-am-vishalmaurya@github
 
 class WhoAmI:
-    user = 'Jaydeep Yadav'                     # Nombre del usuario
-    current_edu = "CSIT"                        # Educación actual
-    currently_learning = "Javascript"           # Aprendiendo actualmente
-    fun_fact = "I hate Chillies"                # Dato curioso
-    hobbies = [                                 # Hobbies
+    user = 'Jeampiere Valladolid'  
+    currently_learning = "Python"          
+    hobbies = [                                
         'Music',
-        'Chilling',
+        'Program',
         'Gaming',
-        'Sci-Fi Movies'
     ]
    
     def getCity():
-        return "Chhattisgarh, India"           # Ciudad actual
+        return "Ferreñafe, Peru"         
    
     def Ambitions():
         return [
-            "Become Software Engineer",
+            "be a good programmer",
             "Finish My Projects"
         ]
 ```
