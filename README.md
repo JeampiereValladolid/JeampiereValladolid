@@ -5,9 +5,6 @@
   </a>
 </p>
 
-<img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel free to open a pull request if found" width="320" />
-<hr>
-
 ```python
 # I-am-vishalmaurya@github
 
