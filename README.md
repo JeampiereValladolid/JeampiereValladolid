@@ -79,7 +79,7 @@ class WhoAmI:
       <img align="center" width="100%" src="https://via.placeholder.com/300x200?text=Pr%C3%B3ximamente" alt="Próximamente" />
     </p>
     <p align="center">
-      <a href="#" target="blank">
+      <a href="https://github.com/JeampiereValladolid" target="blank">
         <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
       </a>
     </p>       
@@ -90,7 +90,7 @@ class WhoAmI:
       <img align="center" width="100%" src="https://via.placeholder.com/300x200?text=Pr%C3%B3ximamente" alt="Próximamente" />
     </p>
     <p align="center">
-      <a href="#" target="blank">
+      <a href="https://github.com/JeampiereValladolid" target="blank">
         <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
       </a>
     </p>       
@@ -101,7 +101,7 @@ class WhoAmI:
       <img align="center" width="100%" src="https://via.placeholder.com/300x200?text=Pr%C3%B3ximamente" alt="Próximamente" />
     </p>
     <p align="center">
-      <a href="#" target="blank">
+      <a href="https://github.com/JeampiereValladolid" target="blank">
         <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
       </a>
     </p>       
@@ -112,7 +112,7 @@ class WhoAmI:
       <img align="center" width="100%" src="https://via.placeholder.com/300x200?text=Pr%C3%B3ximamente" alt="Próximamente" />
     </p>
     <p align="center">
-      <a href="#" target="blank">
+      <a href="https://github.com/JeampiereValladolid" target="blank">
         <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
       </a>
     </p>       
