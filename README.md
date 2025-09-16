@@ -59,6 +59,15 @@ class WhoAmI:
 
 <h2>Tecnologías conocidas👨🏻‍💻</h2>
 <!--tech stack icons-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,html,css&perline=3" />
+  </a>
+</p>
+<br>
+
+
+<!--tech stack icons-->
 <div id="proyectos">
 <h2>Algunos proyectos👨🏻‍💻</h2>
 
