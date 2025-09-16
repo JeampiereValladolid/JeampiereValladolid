@@ -5,8 +5,13 @@
   </a>
 </p>
 
-<img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel free to open a pull request if found" width="320" />
+<div align="center">
+  <img src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Imagen" width="320" />
+</div>
+
 <hr>
+
+<div align="center">
 
 ```python
 class WhoAmI:
@@ -23,7 +28,7 @@ class WhoAmI:
    
     def Ambitions():
         return [
-            "A Happy Family"
+            "A Happy Family",
             "Finish My Projects"
         ]
 ```
