@@ -69,10 +69,13 @@ Contacto: jeampierevalladolid2011@gmail.com
 
 <table align="left">
   <tr>
-    <td width="25%" align="center">
-      <p align="center">
-        <img width="100%" src="https://github.com/user-attachments/assets/0edc1001-257b-463f-babe-f5cf8d7365a0" alt="image">
-      </p>
+    </p>
+    <p align="center">
+      <a href="https://github.com/JeampiereValladolid" target="blank">
+        <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      </a>
+    </p>       
+  </td>
       
 " alt="Próximamente" />
     </p>
