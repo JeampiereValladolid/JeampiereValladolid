@@ -116,3 +116,22 @@ Contacto: jeampierevalladolid2011@gmail.com
 </tr>
 </table>
 </div>
+```python
+class WhoAmI:
+    user = 'Jeampiere Valladolid'  
+    currently_learning = "Python"          
+    hobbies = [                                
+        'Music',
+        'Program',
+        'Gaming',
+    ]
+   
+    def getCity():
+        return "Ferreñafe, Peru"         
+   
+    def Ambitions():
+        return [
+            "be a good programmer",
+            "Finish My Projects"
+        ]
+```
