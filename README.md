@@ -67,56 +67,48 @@ Contacto: jeampierevalladolid2011@gmail.com
 <div id="proyectos">
 <h2>𝙼𝚈 𝙿𝚁𝙾𝙹𝙴𝙲𝚃𝚂</h2>
 
-<table align="left">
+<table align="left" style="border: none; border-collapse: collapse;">
   <tr>
-    </p>
-    <p align="center">
-      <a href="https://github.com/JeampiereValladolid" target="blank">
-        <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-      </a>
-    </p>       
-  </td>
-      
-" alt="Próximamente" />
-    </p>
-    <p align="center">
-      <a href="https://github.com/JeampiereValladolid" target="blank">
-        <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-      </a>
-    </p>       
-  </td>
-
-  <td width="25%" align="center">
-    <p align="center">
-      <img align="center" width="100%" src="https://via.placeholder.com/300x200?text=Pr%C3%B3ximamente" alt="Próximamente" />
-    </p>
-    <p align="center">
-      <a href="https://github.com/JeampiereValladolid" target="blank">
-        <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-      </a>
-    </p>       
-  </td>
-
-  <td width="25%" align="center">
-    <p align="center">
-      <img align="center" width="100%" src="https://via.placeholder.com/300x200?text=Pr%C3%B3ximamente" alt="Próximamente" />
-    </p>
-    <p align="center">
-      <a href="https://github.com/JeampiereValladolid" target="blank">
-        <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-      </a>
-    </p>       
-  </td>
-
-  <td width="25%" align="center">
-    <p align="center">
-      <img align="center" width="100%" src="https://via.placeholder.com/300x200?text=Pr%C3%B3ximamente" alt="Próximamente" />
-    </p>
-    <p align="center">
-      <a href="https://github.com/JeampiereValladolid" target="blank">
-        <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-      </a>
-    </p>       
-  </td>
-</tr>
+    <td width="25%" align="center">
+      <p align="center">
+        <img width="100%" src="https://via.placeholder.com/300x200?text=Pr%C3%B3ximamente" alt="Próximamente" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/JeampiereValladolid" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+        </a>
+      </p>
+    </td>
+    <td width="25%" align="center">
+      <p align="center">
+        <img width="100%" src="https://via.placeholder.com/300x200?text=Pr%C3%B3ximamente" alt="Próximamente" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/JeampiereValladolid" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+        </a>
+      </p>
+    </td>
+    <td width="25%" align="center">
+      <p align="center">
+        <img width="100%" src="https://via.placeholder.com/300x200?text=Pr%C3%B3ximamente" alt="Próximamente" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/JeampiereValladolid" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+        </a>
+      </p>
+    </td>
+    <td width="25%" align="center">
+      <p align="center">
+        <img width="100%" src="https://via.placeholder.com/300x200?text=Pr%C3%B3ximamente" alt="Próximamente" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/JeampiereValladolid" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+        </a>
+      </p>
+    </td>
+  </tr>
 </table>
+
