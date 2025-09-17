@@ -113,7 +113,7 @@ Contacto: jeampierevalladolid2011@gmail.com
       </a>
     </p>       
   </td>
-
+<p>He pedido perdón sin haber hecho nada malo e bajado la cabeza aún teniendo la razón e hecho cosas por otros que ellos jamás harían por mi e ocultado mi tristeza para no preocupar a nadie no soy perfecto pero tampoco soy el peor e perdido la cuenta de las veces que puse la felicidad de otros por encima de la mía de las veces que sostuve el mundo de alguien mas mientras el mío se desmoronaba no soy fácil soy complicado terco no escondo mis cicatrices ni juego a ser alguien que no soy lo que ves eso soy no busco esconderme detrás de máscaras para mí la vulnerabilidad es una fortaleza no una debilidad ya sabes no estás solo aquí seguimos siendo reales en un mundo de apariencias</p>
 </tr>
 </table>
 </div>
