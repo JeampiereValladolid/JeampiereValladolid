@@ -72,7 +72,8 @@ Contacto: jeampierevalladolid2011@gmail.com
 
   <td width="25%" align="center">
     <p align="center">
-      <img align="center" width="100%" src="https://via.placeholder.com/300x200?text=Pr%C3%B3ximamente" alt="Próximamente" />
+      <img align="center" width="100%" src="<img width="1366" height="729" alt="image" src="https://github.com/user-attachments/assets/0edc1001-257b-463f-babe-f5cf8d7365a0" />
+" alt="Próximamente" />
     </p>
     <p align="center">
       <a href="https://github.com/JeampiereValladolid" target="blank">
