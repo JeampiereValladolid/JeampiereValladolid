@@ -71,7 +71,7 @@ Contacto: jeampierevalladolid2011@gmail.com
   <tr>
     <td width="25%" align="center">
       <p align="center">
-        <img width="100%" src="https://via.placeholder.com/300x200?text=Pr%C3%B3ximamente" alt="Próximamente" />
+        <img width="100%" src="file:///C:/Users/JEAMPIERE/Downloads/Copia%20de%20Analisis%20del%20caso.png" alt="Próximamente" />
       </p>
       <p align="center">
         <a href="https://github.com/JeampiereValladolid" target="_blank">
