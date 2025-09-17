@@ -49,6 +49,8 @@ class WhoAmI:
 <p align="left">
 Interes por la programacion y el desarrollo de software, con media experiencia en la construcción de proyectos personales. Siempre en busqueda de aprender nuevas tecnologías y mejorar continuamente en el proceso de desarrollo.
 
+He pedido perdón sin haber hecho nada malo e bajado la cabeza aún teniendo la razón e hecho cosas por otros que ellos jamás harían por mi e ocultado mi tristeza para no preocupar a nadie no soy perfecto pero tampoco soy el peor e perdido la cuenta de las veces que puse la felicidad de otros por encima de la mía de las veces que sostuve el mundo de alguien mas mientras el mío se desmoronaba 
+
 Contacto: jeampierevalladolid2011@gmail.com
 <!--Intro end-->
   </p>
