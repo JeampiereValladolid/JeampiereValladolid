@@ -115,7 +115,6 @@ Contacto: jeampierevalladolid2011@gmail.com
   </td>
 </tr>
 </table>
-</div>
 ```python
 class WhoAmI:
     user = 'Jeampiere Valladolid'  
