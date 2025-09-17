@@ -68,11 +68,12 @@ Contacto: jeampierevalladolid2011@gmail.com
 <h2>𝙼𝚈 𝙿𝚁𝙾𝙹𝙴𝙲𝚃𝚂</h2>
 
 <table align="left">
-<tr border="none">
-
-  <td width="25%" align="center">
-    <p align="center">
-      <img align="center" width="100%" src="<img width="1366" height="729" alt="image" src="https://github.com/user-attachments/assets/0edc1001-257b-463f-babe-f5cf8d7365a0" />
+  <tr>
+    <td width="25%" align="center">
+      <p align="center">
+        <img width="100%" src="https://github.com/user-attachments/assets/0edc1001-257b-463f-babe-f5cf8d7365a0" alt="image">
+      </p>
+      
 " alt="Próximamente" />
     </p>
     <p align="center">
