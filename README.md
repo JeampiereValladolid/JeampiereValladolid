@@ -71,8 +71,9 @@ Contacto: jeampierevalladolid2011@gmail.com
   <tr>
     <td width="25%" align="center">
       <p align="center">
-        <img width="100%" src="<img width="1920" height="1080" alt="Copia de Analisis del caso" src="https://github.com/user-attachments/assets/764230a2-b393-4763-bd35-64469940335e" />
-"/> #111111
+        <a href="https://github.com/JeampiereValladolid" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+        </a>
       </p>
       <p align="center">
         <a href="https://github.com/JeampiereValladolid" target="_blank">
