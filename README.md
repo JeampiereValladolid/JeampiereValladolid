@@ -97,7 +97,7 @@ Contacto: jeampierevalladolid2011@gmail.com
         </a>
         <!-- Botón INV. VENTAS -->
         <a href="https://github.com/JeampiereValladolid/Inv.-Ventas" target="_blank">
-          <img src="https://img.shields.io/badge/INV._VENTAS-00FF00?style=for-the-badge&logoColor=white" alt="INV. VENTAS" />
+          <img src="https://img.shields.io/badge/INV._VENTAS-00FF00?style=for-the-badge&logoColor=white" alt="CAM. SENSOR" />
         </a>
       </p>
     </td>
