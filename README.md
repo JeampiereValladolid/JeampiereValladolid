@@ -69,14 +69,19 @@ Contacto: jeampierevalladolid2011@gmail.com
 
 <table align="left" style="border: none; border-collapse: collapse;">
   <tr>
-    <!-- Primer proyecto: Imagen real -->
+    <!-- Primer proyecto: Imagen real y botones GitHub + INV. VENTAS -->
     <td width="25%" align="center">
       <p align="center">
-        <img width="100%" src="https://raw.githubusercontent.com/JeampiereValladolid/JeampiereValladolid/main/Imagen01.png" alt="Proyecto 1" />
+        <img width="120%" src="https://raw.githubusercontent.com/JeampiereValladolid/JeampiereValladolid/main/Imagen01.png" alt="Proyecto 1" />
       </p>
       <p align="center">
-        <a href="https://github.com/JeampiereValladolid" target="_blank">
+        <!-- Botón GitHub -->
+        <a href="https://github.com/JeampiereValladolid/Inv.-Ventas" target="_blank">
           <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+        </a>
+        <!-- Botón INV. VENTAS -->
+        <a href="https://github.com/JeampiereValladolid/Inv.-Ventas" target="_blank">
+          <img src="https://img.shields.io/badge/INV._VENTAS-00FF00?style=for-the-badge&logoColor=white" alt="INV. VENTAS" />
         </a>
       </p>
     </td>
@@ -116,4 +121,5 @@ Contacto: jeampierevalladolid2011@gmail.com
   </tr>
 </table>
 </div>
+
 
