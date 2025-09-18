@@ -88,7 +88,7 @@ Contacto: jeampierevalladolid2011@gmail.com
     <!-- Segundo proyecto -->
     <td width="25%" align="center">
       <p align="center">
-        <img width="120%" src="" alt="Proyecto 2" />
+        <img width="120%" src="https://raw.githubusercontent.com/JeampiereValladolid/JeampiereValladolid/main/Imagen02.png" alt="Proyecto 2" />
       </p>
       <p align="center">
         <!-- Botón GitHub -->
