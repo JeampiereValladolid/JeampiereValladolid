@@ -80,9 +80,9 @@ Contacto: jeampierevalladolid2011@gmail.com
           <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
         </a>
         <!-- Botón INV. VENTAS -->
-        <a href="https://github.com/JeampiereValladolid/Inv.-Ventas" target="_blank">
-          <img src="https://img.shields.io/badge/INV._VENTAS-00FF00?style=for-the-badge&logoColor=white" alt="INV. VENTAS" />
-        </a>
+    <a href="https://github.com/JeampiereValladolid/Inv.-Ventas" target="_blank">
+      <img src="https://img.shields.io/badge/INV._VENTAS-FFFFFF?style=for-the-badge&logo=&logoColor=black" alt="INV. VENTAS" />
+    </a>
       </p>
     </td>
     <!-- Segundo proyecto -->
