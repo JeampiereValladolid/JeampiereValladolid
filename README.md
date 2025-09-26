@@ -69,39 +69,10 @@ Contacto: jeampierevalladolid2011@gmail.com
 
 <table align="left" style="border: none; border-collapse: collapse;">
   <tr>
-    <!-- Primer proyecto -->
-    <td width="25%" align="center">
-      <p align="center">
-        <img width="120%" src="https://raw.githubusercontent.com/JeampiereValladolid/JeampiereValladolid/main/Imagen01.png" alt="Proyecto 1" />
-      </p>
-      <p align="center">
-        <!-- Botón GitHub -->
-        <a href="https://github.com/JeampiereValladolid/Inv.-Ventas" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-        </a>
-        <!-- Botón INV. VENTAS -->
-    <a href="https://github.com/JeampiereValladolid/Inv.-Ventas" target="_blank">
-      <img src="https://img.shields.io/badge/INV._VENTAS-FFFFFF?style=for-the-badge&logo=&logoColor=black" alt="INV. VENTAS" />
     </a>
       </p>
     </td>
-    <!-- Segundo proyecto -->
-    <td width="25%" align="center">
-      <p align="center">
-        <img width="120%" src="https://github.com/JeampiereValladolid/JeampiereValladolid/blob/main/Imagen02.png" alt="Proyecto 2" />
-      </p>
-      <p align="center">
-        <!-- Botón GitHub -->
-        <a href="https://github.com/JeampiereValladolid/Cam.-Sensor" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-        </a>
-        <!-- Botón INV. VENTAS -->
-       <a href="https://github.com/JeampiereValladolid/Cam.-Sensor">
-        <img src="https://img.shields.io/badge/CAM._SENSOR-FFFFFF?style=for-the-badge&logo=&logoColor=white" alt="CAM. SENSOR" />
-       </a>
-      </p>
-    </td>
-    <!-- Tercer proyecto: Placeholder -->
+    <!---->
     <td width="25%" align="center">
       <p align="center">
         <img width="100%" src="https://via.placeholder.com/300x200?text=Pr%C3%B3ximamente" alt="Próximamente" />
@@ -112,7 +83,7 @@ Contacto: jeampierevalladolid2011@gmail.com
         </a>
       </p>
     </td>
-    <!-- Cuarto proyecto: Placeholder -->
+    <!---->
     <td width="25%" align="center">
       <p align="center">
         <img width="100%" src="https://via.placeholder.com/300x200?text=Pr%C3%B3ximamente" alt="Próximamente" />
